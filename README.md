@@ -10,7 +10,7 @@
 </div>
 <br>
 <!-- Note: This link is currently set up with the localhost and is not enabled for outside access. -->
-<p align="center"><i>Interested in this project? Please visit my <a href="http://localhost:3000/">Website</a>.</i></p>
+<p align="center"><i>Interested in this project? Visit the <a href="http://localhost:3000/">website</a> to learn more!</i></p>
 <br>
 This code contains the simulation tool portion of my final project for CISS:451 or 'Senior Projects I', completed during my final Spring 2024 semester. This project is intended to showcase a variety of skills in designing programming systems, implementing frameworks and libraries, and creating a cohesive and useful code from the ground up. 
 <br>
