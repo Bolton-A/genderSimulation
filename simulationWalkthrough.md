@@ -2,8 +2,8 @@
 
 ### Navigating the Menu
 1. Complete the steps for downloading and installing MySQL, populating the database, connecting it to Python, and then downloading the simulation code. That process is outlined [here](https://github.com/Bolton-A/genderSimulation/blob/main/README.md).
-2. Click ```Run``` at the top banner of Visual Studio Code with the simulation code opened.
-3. Click ```Run Without Debugging``` in the panel that opens after step 2. This will launch your code.
+2. Click the ```Run``` button in the toolbar of Visual Studio Code.
+3. Select ```Run Without Debugging```.
 4. You will be shown the menu below. Type the number corresponding with your selection on the keyboard and then press ```enter```. If you want to run a dataset collected from a variety of ages and you are not already aware of the earliest and latest years the data was from, then I suggest selecting ```4``` to calculate the necessary range. More on that later.
 ```
 #################### MENU ####################
