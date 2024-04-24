@@ -30,8 +30,7 @@ def main():
         print("|            1. Run Simulation               |")
         print("|            2. Visit Website                |")
         print("|            3. View Github                  |")
-        print("|            4. Calculate Year Range         |")
-        print("|            5. Quit Application             |")
+        print("|            4. Quit Application             |")
         print("##############################################")
         choice = input("Please select where you would like to navigate to: ")
         match choice:
@@ -51,15 +50,10 @@ def main():
                 menu.choiceThree()
                 input("Press Enter to continue...")
             
-            # 4. Calculate Year Range
+            # 4. Quit Program
             case "4":
                 menu.choiceFour()
-                input("Press Enter to continue...")
 
-            # 4. Quit Program
-            case "5":
-                menu.choiceFive()
-            
             # Invalid Selection
             case _:
                 input("That was not a valid selection. Press press [Enter] to try again...")
@@ -132,62 +126,14 @@ class Menu:
 
     # Website function. (May be cut for final development.)
     def choiceTwo(self):
-        webbrowser.open("https://www.w3schools.com/python/python_iterators.asp")
-        print("This selection will take the user to the website portion of the project, if finished.")
+        webbrowser.open('http://localhost:3000/')
     
     # Github function.
     def choiceThree(self):
-        webbrowser.open("https://python-forum.io/")
-        print("This selection will take the user to the project github.")
-
-    # Github function.
-    def choiceFour(self):
-
-        print("This section will help you calculate your starting and ending years for a ranged simulation. Please input all ages as the ages presented in the year your data was taken.")
-        
-        # Prompt the user to enter an age between 2 and 122. Loop if invalid.
-        while True:
-            try:
-                minimum = int(input("Enter the minimum age of your data sample: "))
-                if ((minimum < 0) or (minimum > 122)):
-                    print("Our data sample currently only covers ages within the ranges of 0 to 122. Please enter a year within that range.")
-                    continue
-                break
-            except ValueError:
-                print("Invalid input. Please enter an age between 0 and 122.")
-
-        # Prompt the user to enter an age between 0 and 122. Loop if invalid.
-        while True:
-            try:
-                maximum = int(input("Enter the maximum age of your data sample: "))
-                if ((maximum < 0) or (maximum > 122) or (minimum > maximum)):
-                    print("Our data sample currently only covers ages within the ranges of 0 to 122. Please enter a year within that range that is higher than the minimum.")
-                    continue
-                break
-            except ValueError:
-                print("Invalid input. Please enter an age between 0 and 122 that is higher than the minimum.")
-
-        # Prompt the user to enter a year between 1880 and 2022. Loop if they do not enter a valid value.
-        while True:
-            try:
-                year = int(input("Finally, please enter the year that your data was collected: "))
-                if ((year < 1880) or (year > 2022)):
-                    print("Our data sample currently only covers years within the ranges of 1880 to 2022. Please enter a year within that range.")
-                    continue
-                break
-            except ValueError:
-                print("Invalid input. Please enter a year between 1880 and 2022.")
-
-        minYear = year - maximum
-        maxYear = year - minimum
-
-        if (minYear < 1880):
-            print("It looks like your minimum age is too low to be accurately simulated by our dataset. The minimum year for your range would be below 1880, which is the lowest year this system can simulate.")
-        else:
-            print("For your age range, you will want to set the minimum year as", minYear, "and the maximum as", maxYear, ".")
+        webbrowser.open('https://github.com/Bolton-A/genderSimulation/tree/main')
 
     # Exit function.
-    def choiceFive(self):
+    def choiceFour(self):
         exit(1)
 
 # Gender simulation object with each function defining the formatting section for single year, multiple years, and the ending portion that uses the formatted data
@@ -862,6 +808,10 @@ class GenderSimulation:
                     ranges.append(newRow)
                     continue
 
+        # Added to resolve error with missing final value when running 'range'.
+        tempValues = ['DeleteMe', 1, 2]
+        ranges.append(tempValues)
+
         # Print all ranges.
         #print()
         #print("Names with gender ranges: ")
@@ -984,7 +934,7 @@ class GenderSimulation:
             # Display the total number of names that were not found.
             print()
             #print("Names not found: ", notFoundNames) # Should be notFoundNames/years for multiple years.
-            print("Confidence rating: %", round(confidenceScore, 2))
+            print("Confidence rating: ~%", round(confidenceScore, 2))
             
             if confidenceScore == 0:
                 print("None of the names from your dataset were recorded in your selected year.")
