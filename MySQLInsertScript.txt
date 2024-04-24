@@ -1,3 +1,6 @@
+; NOTE: This file is an AutoHotKey script that formats the Excel files contained in names.zip and inserts them into the MySQL database. You will need to download and install AutoHotKey in order for this to work. Due to this code using screen coordinates, you will also need to modify the coordinates to fit your own screen.
+; THIS PROGRAM IS NOT INTENDED TO BE RUN WITHOUT USER MODIFICATIONS.
+
 ^s::
 
 start := 2022
