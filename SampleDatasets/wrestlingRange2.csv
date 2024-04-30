@@ -1,0 +1,64 @@
+Column1,name,gender,age,height,nationality,weight,sports,hours_per_day,strength,agility,mental,federation,year_start,rank
+16,Angela Adams,Female,31,168,USA,85,MMA,3,6,6,7,World Wrestling Entertainment,2011,216
+31,Arthur Sturm,Male,31,184,USA,100,"Boxing, Karate, Kick-Boxing",3,6,6,6,World Wrestling Entertainment,2013,297
+33,Barbara Carlson,Female,31,171.5,USA,87,"Karate, Kick-Boxing",5,6,8,5,Consejo Global de Lucha Libre,2009,394
+51,Bonnie Felt,Female,31,171.5,USA,86,Karate,2,5,8,7,World Wrestling Entertainment,2007,307
+83,Christine Barnard,Female,31,175,USA,88,"Boxing, Karate, MMA",3,6,9,8,Consejo Global de Lucha Libre,2003,55
+118,David Ray,Male,31,178.5,USA,94,Kick-Boxing,0,7,6,6,Consejo Global de Lucha Libre,2011,410
+310,Marie Carlton,Female,31,161,USA,75,Karate,4,4,10,6,World Wrestling Entertainment,2008,336
+452,Sylvia Van,Female,31,170,USA,88,"Boxing, Karate, Kick-Boxing, MMA",3,4,10,5,Fight Zone Wrestling,2003,112
+492,William Bryant,Male,31,180,USA,97,"Boxing, Karate, MMA",4,6,6,9,Consejo Global de Lucha Libre,2006,97
+28,Antonio Beard,Male,30,186.5,USA,102,MMA,2,8,5,5,Fight Zone Wrestling,2003,222
+88,Christopher Estes,Male,30,179,USA,93,MMA,1,8,5,7,Fight Zone Wrestling,2016,239
+137,Donna Borrero,Female,30,182,USA,99,Karate,2,7,7,8,Consejo Global de Lucha Libre,2012,332
+252,Judy Tregre,Female,30,166,USA,80,"Boxing, Karate",2,5,7,7,Consejo Global de Lucha Libre,2009,443
+306,Margaret Medley,Female,30,171.5,USA,88,"Karate, Kick-Boxing",1,5,8,5,Fight Zone Wrestling,2002,381
+313,Marjorie Brazelton,Female,30,168.5,USA,81,"Boxing, MMA",2,7,9,4,Fight Zone Wrestling,2012,213
+450,Sydney Glenn,Female,30,176,USA,88,Boxing,3,6,7,6,Consejo Global de Lucha Libre,2010,454
+4,Albertha Rodriguez,Female,29,158,USA,72,MMA,1,5,7,7,Consejo Global de Lucha Libre,2012,360
+24,Anthony Butler,Male,29,181,USA,99,Karate,2,6,5,7,Fight Zone Wrestling,2009,444
+93,Clarence Cote,Male,29,179.5,USA,95,"Boxing, Judo, Kick-Boxing",4,7,7,6,Fight Zone Wrestling,2008,248
+132,Diane Seys,Female,29,177.5,USA,95,"Boxing, MMA",3,5,7,8,Consejo Global de Lucha Libre,2009,208
+174,Fred Rehm,Male,29,178,USA,94,"Boxing, Kick-Boxing, MMA",5,8,8,7,Consejo Global de Lucha Libre,2008,32
+255,June Hodges,Female,29,170,USA,87,Boxing,3,5,8,8,World Wrestling Entertainment,2009,273
+277,Larry Perez,Male,29,185,USA,100,"Boxing, Judo, Kick-Boxing, MMA",5,7,8,7,World Wrestling Entertainment,2007,11
+282,Lauryn Richardson,Female,29,170,USA,85,Karate,2,6,6,5,Fight Zone Wrestling,2008,481
+356,Olive Britton,Female,29,169.5,USA,82,"Judo, Karate",2,5,6,6,Consejo Global de Lucha Libre,2006,478
+84,Christine Cerverizzo,Female,28,165.5,USA,77,"Karate, MMA",2,6,7,7,World Wrestling Entertainment,2011,158
+104,Cynthia Walker,Female,28,165.5,USA,79,"Kick-Boxing, MMA",3,6,9,8,Consejo Global de Lucha Libre,2007,77
+144,Dorothy Mcneil,Female,28,172.5,USA,91,"Kick-Boxing, MMA",4,5,6,7,Consejo Global de Lucha Libre,2014,327
+160,Eric Hutchinson,Male,28,183,USA,101,Kick-Boxing,4,9,6,7,Fight Zone Wrestling,2012,235
+213,Jason Stewart,Male,28,191.5,USA,107,"Boxing, Karate",3,6,6,6,Consejo Global de Lucha Libre,2016,450
+257,Karen Mcgovern,Female,28,162,USA,74,"Karate, MMA",4,4,8,7,Consejo Global de Lucha Libre,2011,317
+274,Kurtis Brouillet,Male,28,187.5,USA,106,Judo,3,7,6,7,Fight Zone Wrestling,2010,352
+340,Micheal Kurz,Male,28,178.5,USA,90,"Boxing, Judo",0,8,5,6,Fight Zone Wrestling,2008,382
+378,Ramon Whitehurst,Male,28,182,USA,97,"Boxing, Karate",2,8,7,8,Consejo Global de Lucha Libre,2010,206
+416,Rosa Joy,Female,28,173.5,USA,87,"Boxing, Karate",3,6,8,8,Consejo Global de Lucha Libre,2009,293
+98,Cory Robbins,Male,27,180.5,USA,92,Kick-Boxing,2,9,6,5,Fight Zone Wrestling,2017,377
+119,David Schiavo,Male,27,181.5,USA,98,"Boxing, Judo",2,10,5,6,Fight Zone Wrestling,2015,324
+234,John Przybyla,Male,27,179,USA,92,Boxing,3,8,6,7,Fight Zone Wrestling,2006,301
+359,Palmira Daugherty,Female,27,174.5,USA,88,"Karate, MMA",5,5,8,7,Fight Zone Wrestling,2013,215
+398,Rita Ramey,Female,27,174.5,USA,88,"Kick-Boxing, MMA",2,6,7,6,World Wrestling Entertainment,2011,147
+444,Stephen Ruthstrom,Male,27,182.5,USA,99,"Boxing, Judo, Kick-Boxing",5,8,7,6,Consejo Global de Lucha Libre,2006,195
+82,Christina Harder,Female,26,184.5,USA,99,"Boxing, Karate, Kick-Boxing, MMA",5,6,9,6,World Wrestling Entertainment,2012,31
+92,Cindy Conway,Female,26,166.5,USA,81,Judo,1,4,8,8,Consejo Global de Lucha Libre,2012,447
+147,Dustin Rude,Male,26,175,USA,91,"Karate, Kick-Boxing, MMA",3,7,7,7,Consejo Global de Lucha Libre,2016,137
+320,Mary Green,Female,26,166.5,USA,79,Judo,3,6,7,6,Fight Zone Wrestling,2016,475
+445,Stephen Slocum,Male,26,190.5,USA,106,"Boxing, Karate, MMA",3,9,5,6,Consejo Global de Lucha Libre,2008,123
+466,Tiffany Reynolds,Female,26,174.5,USA,86,"Boxing, Karate, MMA",4,2,8,7,World Wrestling Entertainment,2010,228
+484,Violeta Nelson,Female,26,168.5,USA,82,"Karate, MMA",4,7,8,6,Fight Zone Wrestling,2015,188
+47,Beverley Hutchins,Female,25,161,USA,75,"Boxing, Kick-Boxing",3,4,8,6,Fight Zone Wrestling,2016,472
+327,Mary Strickland,Female,25,179.5,USA,94,"Boxing, MMA",3,5,8,6,World Wrestling Entertainment,2010,154
+389,Richard Burton,Male,25,180.5,USA,94,"Karate, MMA",4,6,6,6,Consejo Global de Lucha Libre,2007,264
+396,Rita Lustig,Female,24,167.5,USA,80,"Boxing, Judo",3,6,7,6,Fight Zone Wrestling,2009,423
+453,Tamara May,Female,24,162,USA,76,Judo,1,4,7,5,Fight Zone Wrestling,2016,498
+110,Daniel Slauson,Male,23,181.5,USA,96,"Kick-Boxing, MMA",2,6,4,6,Consejo Global de Lucha Libre,2014,380
+328,Mason Manders,Male,23,175.5,USA,87,"Boxing, Kick-Boxing, MMA",5,6,8,6,World Wrestling Entertainment,2011,64
+374,Philip Zimmerman,Male,23,169.5,USA,82,"Judo, Karate, MMA",2,6,9,8,World Wrestling Entertainment,2016,40
+91,Cindy Chappell,Female,22,162,USA,75,"Judo, Kick-Boxing",5,6,8,8,Fight Zone Wrestling,2015,310
+309,Mariano Rosa,Male,22,183.5,USA,95,"Judo, MMA",5,6,9,9,Fight Zone Wrestling,2012,43
+25,Anthony Smith,Male,20,176,USA,90,"Boxing, MMA",2,7,6,7,Fight Zone Wrestling,2021,255
+127,Delores Wilson,Female,20,171.5,USA,84,Boxing,1,6,9,5,Consejo Global de Lucha Libre,2020,463
+326,Mary Shape,Female,20,176.5,USA,92,MMA,3,6,6,7,Fight Zone Wrestling,2014,313
+61,Caridad Phillips,Female,19,170.5,USA,86,"Kick-Boxing, MMA",3,4,7,7,Fight Zone Wrestling,2017,335
+443,Stephanie Thompson,Female,18,164,USA,72,"Boxing, Kick-Boxing",3,4,9,7,Consejo Global de Lucha Libre,2021,452
