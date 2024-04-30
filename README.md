@@ -6,7 +6,6 @@
 <a href="https://github.com/Bolton-A/genderSimulation/pulls"><img src="https://img.shields.io/github/issues-pr/Bolton-A/genderSimulation" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/Bolton-A/genderSimulation/issues"><img src="https://img.shields.io/github/issues/Bolton-A/genderSimulation" alt="Issues Badge"/></a>
 <a href="https://github.com/Bolton-A/genderSimulation/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Bolton-A/genderSimulation?color=2b9348"></a>
-<a href="https://github.com/Bolton-A/genderSimulation/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Bolton-A/genderSimulation?color=2b9348" alt="License Badge"/></a>
 </div>
 <br>
 <!-- Note: This link is currently set up with the localhost and is not enabled for outside access. -->
