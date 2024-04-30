@@ -189,10 +189,6 @@ Early in the project's development, I planned on creating a website interface in
 
 Contributions are always welcome! Please create a pull request or contact me.
 
-## :pencil: License
-
-This project is licensed under [MIT](https://opensource.org/licenses/MIT) license.
-
 ## :man_astronaut: Show your support
 
 Give a ⭐️ if you enjoyed this project!
