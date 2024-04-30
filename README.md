@@ -10,7 +10,9 @@
 <br>
 <!-- Note: This link is currently set up with the localhost and is not enabled for outside access. -->
 <p align="center"><i>Interested in this project? Visit the <a href="http://localhost:3000/">website</a> to learn more!</i></p>
-<br>
+
+![image](https://github.com/Bolton-A/genderSimulation/assets/112293016/d5092f44-e7f1-4402-8679-b75f4169cc27)
+
 This code contains the simulation tool portion of my final project for CISS:451 or 'Senior Projects I', completed during my final Spring 2024 semester. This project is intended to showcase a variety of skills in designing programming systems, implementing frameworks and libraries, and creating a cohesive and useful code from the ground up. 
 <br>
 <br>
