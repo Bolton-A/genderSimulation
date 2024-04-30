@@ -172,10 +172,10 @@ Press Enter to continue...
 - [wrestlingRange1.csv](https://github.com/Bolton-A/genderSimulation/blob/main/SampleDatasets/wrestlingRange1.csv): This sample is a subset of the above and contains 50 records run with the range of 1976 to 1990 (taken from the age column). This sample is best used in combination with wrestlingRange2.csv to demonstrate the higher accuracy of doing split ranges. Click [here](https://www.kaggle.com/datasets/julienjta/wrestling-world-tournament) for source.
 - [wrestlingRange2.csv](https://github.com/Bolton-A/genderSimulation/blob/main/SampleDatasets/wrestlingRange2.csv): This sample isa  subset of wrestling115.csv and contains 64 records with the range of 1991 to 2004 (taken from the age column). This sample is best used in combination with wrestlingRange1.csv to demonstrate the higher accuracy of doing split ranges. Click [here](https://www.kaggle.com/datasets/julienjta/wrestling-world-tournament) for source.
 
-<!-- Note: These links are currently set up with the localhost and is not enabled for outside access. -->
+<!-- Note: These links are currently set up with the localhost and is not enabled for web access. -->
 ## [Website](http://localhost:3000/)
 
-![image](https://github.com/Bolton-A/genderSimulation/assets/112293016/c9964dc5-cb42-4540-8970-a191d8c51643)
+![image](https://github.com/Bolton-A/genderSimulation/assets/112293016/062056df-b06d-4791-b582-9b611068a0b5)
 
 Early in the project's development, I planned on creating a website interface in order to provide the users with a simple graphical interface to process their datasets with. While that is still a feature that I plan to implement in the future, the current iteration of the project has been divided so that the frontend website explains the tool and it's features while the separate tool provides the functionality of the tool. You can find various links to information compiled on the website below.
 
